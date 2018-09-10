@@ -5,7 +5,7 @@ how to work in Google Colab with Google Drive:
 
 https://medium.com/@stavroswd/develop-with-google-colab-and-google-drive-c639888b713f
 
-Check it out if you want to learn more about developing the Cloud.
+Check it out if you want to learn more about developing in the Cloud.
 
 It provides the Notebook with all the necessary code and also and csv file and 
 a zipped data folder containing other csv files. 
